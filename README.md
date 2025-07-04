@@ -39,7 +39,10 @@
 ### 📊 Output
 
 - **Detail Dashboard**  
-  _The detail dashboard is as shown: [Insert screenshot or Tableau Public link]_
+  _The detail dashboard is as shown: ![Screenshot 2025-07-04 195616](https://github.com/user-attachments/assets/0e7f1697-0bbd-4e27-9238-cdc3714242bb)
+  
 
 - **Summary Dashboard**  
-  _The summary dashboard is as shown: [Insert screenshot or Tableau Public link]_
+
+  _The summary dashboard is as shown: 
+![Screenshot 2025-07-04 195603](https://github.com/user-attachments/assets/3b700242-c8e5-4325-a032-cdd344b7f9ec)
