@@ -39,10 +39,10 @@
 ### 📊 Output
 
 - **Detail Dashboard**  
-  _The detail dashboard is as shown: ![Screenshot 2025-07-04 195616](https://github.com/user-attachments/assets/0e7f1697-0bbd-4e27-9238-cdc3714242bb)
-  
+  _The detail dashboard is as shown: ![Screenshot 2025-07-04 195616](https://github.com/user-attachments/assets/02f14c82-0e15-447e-9bb5-3e766ee7fbd5)
+
 
 - **Summary Dashboard**  
 
   _The summary dashboard is as shown: 
-![Screenshot 2025-07-04 195603](https://github.com/user-attachments/assets/3b700242-c8e5-4325-a032-cdd344b7f9ec)
+![Screenshot 2025-07-04 195603](https://github.com/user-attachments/assets/b48f5003-eee0-4d91-b8ca-d0f383d54234)
